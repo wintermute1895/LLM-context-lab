@@ -16,6 +16,14 @@ This is an experimental single-machine prototype. The Python package and CLI ret
 
 ## Quick start
 
+The project publishes a tagged CLI image to GHCR. After a release tag, run:
+
+```sh
+docker run --rm ghcr.io/wintermute1895/llm-context-lab:latest --help
+```
+
+The image is for stateless CLI commands. Keep imported session databases and ledgers on a private host; do not bake personal context into an image.
+
 Run from the source checkout; no installation is required:
 
 ```sh

@@ -1,0 +1,9 @@
+.git
+var
+third_party
+tests
+__pycache__
+*.sqlite*
+*.jsonl
+*.log
+config/session-seed.json
