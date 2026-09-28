@@ -1,0 +1,9 @@
+{
+  "title": "Improve documentation search",
+  "status": "proposed",
+  "requirements": ["Support Unicode queries", "Keep all data local"],
+  "doing": [],
+  "next_steps": ["Measure search behavior using synthetic fixtures"],
+  "sources": [],
+  "sessions": []
+}

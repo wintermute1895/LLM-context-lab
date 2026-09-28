@@ -1,0 +1,4 @@
+{
+  "workspace": "/absolute/path/to/your/git-project",
+  "session_ids": ["replace-with-an-explicitly-selected-session-id"]
+}
